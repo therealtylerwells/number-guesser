@@ -1,0 +1,6 @@
+/Users/tyler/Code/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/tyler/Code/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/tyler/Code/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.csprojAssemblyReference.cache
+/Users/tyler/Code/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/tyler/Code/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.exe
+/Users/tyler/Code/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.pdb
